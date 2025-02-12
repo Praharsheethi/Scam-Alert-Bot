@@ -1,0 +1,149 @@
+[
+    {
+        "user_id": 8039347763,
+        "message": "Hii",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 17:56:55"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hii",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 17:56:56"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hii",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 17:56:57"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hii",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 17:56:58"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hllo",
+        "prediction": "Safe",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 18:01:04"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hlelogf",
+        "prediction": "Safe",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 18:24:24"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hlelogf",
+        "prediction": "Safe",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 18:24:34"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Hi",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 19:22:33"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Hello",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 19:22:46"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Hello",
+        "prediction": "Safe",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 19:22:57"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Hii",
+        "prediction": "Scam",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 19:40:39"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Hellooo",
+        "prediction": "Scam",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 19:41:13"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Heeelllloooo",
+        "prediction": "Scam",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 19:49:26"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Heeelllloooo",
+        "prediction": "Scam",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 19:49:27"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Hiii",
+        "prediction": "Scam",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 19:52:16"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "hii",
+        "prediction": "Safe",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 20:16:58"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Make your money invested to use double",
+        "prediction": "Scam",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 20:17:40"
+    },
+    {
+        "user_id": 5067554794,
+        "message": "Cypto",
+        "prediction": "Scam",
+        "feedback": "Correct",
+        "timestamp": "2025-02-01 21:37:13"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hiiiiii",
+        "prediction": "Scam",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 21:45:05"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Hii sir",
+        "prediction": "Scam",
+        "feedback": "Incorrect",
+        "timestamp": "2025-02-01 21:56:44"
+    },
+    {
+        "user_id": 8039347763,
+        "message": "Double your money investment",
+        "prediction": "Scam",
+        "feedback": "Correct",
+        "timestamp": "2025-02-04 11:25:26"
+    }
+]
